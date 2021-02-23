@@ -1,2 +1,2 @@
 # deep-funding
-working and other document on the DEEP Funding initiative of SNET
+working and other documents on the DEEP Funding initiative of SNET
