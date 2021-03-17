@@ -30,8 +30,8 @@ The general process of "idea crowdfunding" is (based on the [this video](https:/
     4. define constraints (market, legal, technical, etc.);
 2. Evaluate project ideas based on defined parameters;
 
-![](./images/ideascale_2.png){width=450}
-<!-- <img src="./images/ideascale_2.png" width=500/> -->
+<!--![](./images/ideascale_2.png){width=450}-->
+<img src="../images/ideascale_2.png" width=450/> 
 
 3. Make decisions
    1. Assign weights to parameters identified above (value vectors, cost vectors and constraints);
